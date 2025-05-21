@@ -131,12 +131,9 @@ If there are resources that belong to you, please let me know, I will write it h
 
 - [jokopi-express](https://github.com/nyannss/jokopi) - Rest API
 - [jokopi-react-native](https://github.com/nyannss/jokopi-react-native) - Android & iOS Application
+- [use npm start to start this project.]
 
 ## License
 
 This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
 
-## Report Bug
-
-Any error report you can pull request
-or contact: <nyannss@proton.me>
