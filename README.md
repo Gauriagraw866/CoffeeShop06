@@ -116,23 +116,6 @@ You need to install some software to run this project
 <img src="./public/assets/screenshots/5.png" width="370"/>
 </div>
 
-## Resources
-
-Special thanks for providing resources such as icons and images.
-
-- [Flaticon](https://flaticon.com/)
-- [unDraw](https://undraw.co/)
-- [SVGRepo](https://svgrepo.com/)
-- and other sources.
-
-If there are resources that belong to you, please let me know, I will write it here.
-
-## Related Projects
-
-- [jokopi-express](https://github.com/nyannss/jokopi) - Rest API
-- [jokopi-react-native](https://github.com/nyannss/jokopi-react-native) - Android & iOS Application
-- [use npm start to start this project.]
-
 ## License
 
 This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
